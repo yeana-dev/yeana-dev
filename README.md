@@ -3,7 +3,11 @@
 const yeana = {
   name: "Yeana Cho",
   location: "Houston, Texas",
-  currently: "Software Engineering Student at General Assembly"
+  stacks: {
+    Front-end: ["HTML", "CSS", "JavaScript", "React"],
+    Back-end: ["Ruby on Rails", "Node.js", "Express"],
+    Other: ["PostgreSQL", "Adobe XD"]
+  }
 }
 ```
 
