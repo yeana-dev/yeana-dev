@@ -6,7 +6,7 @@ const yeana = {
   stacks: {
     Front-end: ["HTML", "CSS", "JavaScript", "React"],
     Back-end: ["Ruby on Rails", "Node.js", "Express"],
-    Other: ["PostgreSQL", "Adobe XD"]
+    Other: ["PostgreSQL", "MongoDB", "Adobe XD"]
   }
 }
 ```
