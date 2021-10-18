@@ -1,4 +1,4 @@
-# 👋 Hello! 안녕하세요!<img align="right" src="https://i.imgur.com/1mJa9Oe.jpg" width="200">
+# 👋 Hello! 안녕하세요!<img align="right" src="https://i.imgur.com/1mJa9Oe.jpg" width="300">
 ```js
 const yeana = {
   name: "Yeana Cho",
