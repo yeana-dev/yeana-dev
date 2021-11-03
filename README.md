@@ -1,7 +1,7 @@
 # 👋 Hello! 안녕하세요!
 My name is Yeana, and I am a software engineer based in Houston, Texas. I enjoy building creative applications using React. I am passionate about learning from others and excited to contribute and collaborate with a team!
 
-### 🤔 Facts about me
+## Facts about me
 * 😄 Pronouns: She/Her
 * 🔭 I’m currently working on [Critterdex-React](https://github.com/yeana-dev/critterdex-react).
 * 🌱 I’m currently learning Colt Steele's 'JavaScript Algorithms and Data Structures Masterclass'
@@ -22,6 +22,6 @@ My name is Yeana, and I am a software engineer based in Houston, Texas. I enjoy 
 
 ## Contact me 📬
 
-<a href="mailto: yeana.dev@gmail.com"><img src="https://img.shields.io/badge/yeana.dev@gmail.com-EA4335?logo=Gmail&logoColor=FFFFFF" /></a> <a href="https://www.linkedin.com/in/yeana-cho-330312113" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=Linkedin&logoColor=FFFFFF" /></a>
+<a href="mailto: yeana.dev@gmail.com"><img src="https://img.shields.io/badge/yeana.dev@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=FFFFFF" /></a> <a href="https://www.linkedin.com/in/yeana-cho-330312113" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=FFFFFF" /></a>
 
 [![Yeana's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeana-dev&bg_color=DEG,FFD3B4,98DDCA&title_color=FFFFFF&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
