@@ -1,15 +1,12 @@
 # 👋 Hello! 안녕하세요!
-```js
-const yeana = {
-  name: "Yeana Cho",
-  location: "Houston, Texas",
-  stacks: {
-    Front-end: ["HTML", "CSS", "JavaScript", "React"],
-    Back-end: ["Ruby on Rails", "Node.js", "Express"],
-    Other: ["PostgreSQL", "MongoDB", "Adobe XD"]
-  }
-}
-```
+My name is Yeana, and I am a software engineer based in Houston, Texas. I enjoy building creative applications using React. I am passionate about learning from others and excited to contribute and collaborate with a team!
+
+### 🤔 Facts about me
+* 😄 Pronouns: She/Her
+* 🔭 I’m currently working on [Critterdex-React](https://github.com/yeana-dev/critterdex-react).
+* 🌱 I’m currently learning Colt Steele's 'JavaScript Algorithms and Data Structures Masterclass'
+* 📫 How to reach me: yeana.dev@gmail.com
+* 🎮 When I am not coding, you can find me playing Pokemon Unite or Animal Crossing New Horizon
 
 ## 👩🏻‍💻 Tech Stacks
 ![HTML5](https://img.shields.io/badge/-HTML5-red?style=flat-square&logo=html5&logoColor=white)
