@@ -3,7 +3,7 @@ My name is Yeana, and I am a software engineer based in Houston, Texas. I enjoy 
 
 ## Facts about me
 * 😄 Pronouns: She/Her
-* 🔭 I’m currently working on [Critterdex-React](https://github.com/yeana-dev/critterdex-react).
+* 🔭 I’m currently on #100DaysOfCode. Daily updated on https://twitter.com/yeana_dev 💙
 * 🌱 I’m currently learning Colt Steele's 'JavaScript Algorithms and Data Structures Masterclass'
 * 📫 How to reach me: yeana.dev@gmail.com
 * 🎮 When I am not coding, you can find me playing Pokemon Unite or Animal Crossing New Horizon
