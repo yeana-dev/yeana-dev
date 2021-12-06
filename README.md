@@ -1,13 +1,3 @@
-# 👋 Hello! 안녕하세요!
-My name is Yeana, and I am a software engineer based in Houston, Texas. I enjoy building creative applications using React. I am passionate about learning from others and excited to contribute and collaborate with a team!
-
-## Facts about me
-* 😄 Pronouns: She/Her
-* 🔭 I’m currently on #100DaysOfCode. Daily updated on https://twitter.com/yeana_dev 💙
-* 🌱 I’m currently learning TypeScript!
-* 📫 How to reach me: yeana.dev@gmail.com
-* 🎮 When I am not coding, you can find me playing Pokemon Unite or Animal Crossing New Horizon
-
 ## 👩🏻‍💻 Tech Stacks
 ![HTML5](https://img.shields.io/badge/-HTML5-red?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3&logoColor=white)
