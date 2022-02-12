@@ -1,6 +1,6 @@
 # Hi! My name is Yeana 👋
-👩🏻‍💻ㅤAssociate Software Developer @ [RightPoint](https://github.com/Rightpoint)<br>
-🇺🇸ㅤHouston, Texas
+- Associate Software Developer @ [RightPoint](https://github.com/Rightpoint)<br>
+
 
 ## Tech Stacks 🛠
 ![HTML5](https://img.shields.io/badge/-HTML5-red?style=flat-square&logo=html5&logoColor=white)
