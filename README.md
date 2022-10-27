@@ -1,5 +1,5 @@
 # Hi! My name is Yeana 👋
-- Front-end Software Developer @ [RightPoint](https://github.com/Rightpoint)<br>
+- Front-end Software Developer
 
 ## Contact me 📬
 
