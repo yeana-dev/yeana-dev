@@ -1,6 +1,5 @@
 # Hi! My name is Yeana 👋
-- Front-end Software Developer
-- Currently @ <a href="https://www.sjdesignstudio.com/">SJ Design Studio</a>
+- Front-end Software Developer @ <a href="https://www.sjdesignstudio.com/">SJ Design Studio</a>
 
 ## Contact me 📬
 
