@@ -1,5 +1,6 @@
 # Hi! My name is Yeana 👋
-- Front-end Software Developer @ <a href="https://www.sjdesignstudio.com/">SJ Design Studio</a>
+- Front-end Software Developer @ <a href="https://www.sjdesignstudio.com/">SJ Design Studio</a> with Samsung and LG
+- Making beautiful website using React and Sass, component at a time
 
 ## Contact me 📬
 
