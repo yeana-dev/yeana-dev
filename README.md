@@ -1,6 +1,6 @@
-# Hi! My name is Yeana 👋
+# Hi
 - Front-end Software Developer @ <a href="https://www.sjdesignstudio.com/">SJ Design Studio</a>
-- Making beautiful website usings React and Sass, component at a time
+- Javascript, CSS, Sass, React
 
 ## Contact me 📬
 
