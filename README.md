@@ -1,5 +1,5 @@
 # Hi
-- Front-end Software Developer @ <a href="https://www.sjdesignstudio.com/">SJ Design Studio</a>
+- Front-end Software Developer @ <a href="https://outpave.com/">Outpave</a>
 - Javascript, CSS, Sass, React
 
 ## Contact me 📬
