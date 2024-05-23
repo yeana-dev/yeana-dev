@@ -1,6 +1,6 @@
 # Hi
-- Front-end Software Developer @ <a href="https://outpave.com/">Outpave</a>
-- Javascript, CSS, Sass, React
+- Front-end Software Developer @ <a href="https://outpave.com/">Outpave</a> - Mobile team
+- Typescript, React, React Native, CSS, Sass
 
 ## Contact me 📬
 
